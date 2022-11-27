@@ -15,8 +15,8 @@ const dPkg = require(join(__dirname, './package.json'))
 //
 global.MultiNK = es; //Lenguaje nativo
 global.Propietario = dPkg.author.name
-global.OwnerNum = '51977132190''17094002237'
-global.PaisPrefix = '51''1'
+global.OwnerNum = '17094002237'
+global.PaisPrefix = '1'
 global.Prefijo = '.'
 global.MyApiKey = 'nekosmic' //zzz
 global.NombreDelBot = 'Dark Night' //vMD
