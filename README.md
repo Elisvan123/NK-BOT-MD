@@ -59,7 +59,7 @@ Para nuevos desde cero en termux.apk:
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone [URL_DEL_REPOSITORIO_ACTUAL] 
+> git clone https://github.com/Elisvan123/NK-BOT-MD
 > cd NK-BOT-MD
 > yarn
 > npm start
