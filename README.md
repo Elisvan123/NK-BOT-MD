@@ -78,7 +78,7 @@ Para detener al bot en termux:
 
 # ⚡ Necesitas ayuda?, Aquí tienes mi WhatsApp :3
 
-<a href="https://wa.me/51995386439"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/51977132190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # 🗿 Agradecido con el de arriba y a estos cracks :3
 
